@@ -1,1 +1,1 @@
-# Fast-Food
+# Fastfood
